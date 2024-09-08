@@ -22,12 +22,12 @@ Make sure you have Python installed. You can download it from [python.org](https
 
 
 ##2
-![Screenshot of the Watermark App](images/Screenshot%20(482).png)
+![Screenshot of the Watermark App](images/Screenshot%20(481).png)
 
 
 
 ##3
-![Screenshot of the Watermark App](images/Screenshot%20(481).png)
+![Screenshot of the Watermark App](images/Screenshot%20(482).png)
 
 
 
