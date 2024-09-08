@@ -18,5 +18,5 @@ Make sure you have Python installed. You can download it from [python.org](https
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/watermark-application.git
-cd watermark-application
+https://github.com/MehmiAkash/Watermark-by-Akash-.git
+
