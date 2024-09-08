@@ -17,7 +17,8 @@ Make sure you have Python installed. You can download it from [python.org](https
 
 ### Application screenshots
 ##1
-![Screenshot of the Watermark App](Watermark-by-Akash-/images/Screenshot (480).png)
+![Screenshot of the Watermark App](images/Screenshot%20(480).png)
+
 
 
 ##2
