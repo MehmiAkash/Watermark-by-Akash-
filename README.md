@@ -17,13 +17,13 @@ Make sure you have Python installed. You can download it from [python.org](https
 
 ### Application screenshots
 ##1
-![Screenshot of the Watermark App](images/Screenshot(480).png)
+![Screenshot of the Watermark App](images/Screenshot (480).png)
 
 ##2
-![Screenshot of the Watermark App](images/Screenshot(481).png)
+![Screenshot of the Watermark App](images/Screenshot (481).png)
 
 ##3
-![Screenshot of the Watermark App](images/Screenshot(482).png)
+![Screenshot of the Watermark App](images/Screenshot (482).png)
 
 ### Clone the Repository
 
