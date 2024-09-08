@@ -15,6 +15,16 @@ This is a Python Tkinter-based application for adding watermarks to images. It a
 
 Make sure you have Python installed. You can download it from [python.org](https://www.python.org/).
 
+### Application screenshots
+##1
+![Screenshot of the Watermark App](images/Screenshot(480).png)
+
+##2
+![Screenshot of the Watermark App](images/Screenshot(481).png)
+
+##3
+![Screenshot of the Watermark App](images/Screenshot(482).png)
+
 ### Clone the Repository
 
 ```bash
